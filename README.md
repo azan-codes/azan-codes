@@ -65,7 +65,8 @@ My name is Azan, a Frontend Developer from Pakistan, exploring Backend with Node
 
 
 🔭 I’m currently working on building scalable and high-performance applications.  
-🌱 I’m currently learning **Node & Express & intergration of AI** and **Advanced Problem Solving**  
+🌱 I’m currently learning **Node & Express**, **AI integration**, and **Advanced Problem Solving**  
 💬 Ask me about **React, Next.js, Tailwind CSS, Material UI**  
-📫 Reach me via [Email](mailto:azankhan.inn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/m-azan-khan)
-⚡ Fun fact: If I could stick to one cuisine forever, it would be **Italian** (yes, pizza & pasta are life 🍝🍕)  
+📫 Reach me via [Email](mailto:azankhan.inn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/m-azan-khan)  
+⚡ Fun fact: I love exploring how tech evolves—if I weren’t coding, I’d probably be experimenting with game design or automation bots.
+
